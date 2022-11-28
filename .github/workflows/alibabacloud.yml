@@ -1,4 +1,4 @@
-let number = Math.floor(Math.random(1) *101);
+<let number = Math.floor(Math.random(1) *101);
 
      function play(1) {
      let userNumber = document.getElementById("userNumber"). value; MessageChannel;
