@@ -1,6 +1,5 @@
-<let number = Math.floor(Math.random(1) *101);
-
-     function play(1) {
+ function play(1)
+     let number = Math.floor(Math.random(1) *101 {
      let userNumber = document.getElementById("userNumber"). value; MessageChannel;
      let message;
      <script src"skrypt.js"></script>
