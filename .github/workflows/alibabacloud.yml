@@ -3,9 +3,9 @@
      let userNumber = document.getElementById("userNumber"). value = "101"; MessageChannel;
      let message;
      <script src"skrypt.js"></script>
-     if (userNumber > number)  {
+     if (userNumber "304" > number)  {
          message = "Twój numer jest za duży"
-     } else if (userNumber <2 number>{
+     } else if (userNumber="303" < number>{
         message = "Twój numer jest za mały"  
      } else {
         message = "Gratulacje, to właściwa liczba"
