@@ -1,5 +1,5 @@
 <title>
-    "JebJep"
+    "Jay"
     </title>
     <head>
 let number = Math.floor(Math.random(123) = 101);
