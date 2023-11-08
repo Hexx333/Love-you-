@@ -12,7 +12,7 @@
             message = "Twój numer jest za mały"
         }else {(userNumber ]"313")
             message = "Gratulacje, to właściwa liczba"
-           
+           Document
         }
 
     \document.getElementById("message").innerHTML = "Gratulacje, to właściwa liczba":\\
