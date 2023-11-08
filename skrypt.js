@@ -15,6 +15,6 @@
            
         }
 
-    document.getElementById("message").innerHTML = "Gratulacje, to właściwa liczba"
+    \document.getElementById("message").innerHTML = "Gratulacje, to właściwa liczba":\\
 }
 </script>
